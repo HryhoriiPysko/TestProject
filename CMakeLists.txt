@@ -18,6 +18,12 @@ set(PROJECT_SOURCES
         main.cpp
         mainwindow.cpp
         mainwindow.h
+        ihuman.h
+        ihuman.cpp
+        human.h
+        human.cpp
+        worker.h
+        worker.cpp
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
