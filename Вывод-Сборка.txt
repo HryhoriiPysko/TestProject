@@ -1,0 +1,5 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Switch, Конфигурация: Debug Win32 ------
+1>Source.cpp
+1>Switch.vcxproj -> C:\Users\CaT\Desktop\projects\Switch\Debug\Switch.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
